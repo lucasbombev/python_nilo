@@ -1,0 +1,1 @@
+## <center>[Capitulo 2 - Preparando o Ambiente](https://github.com/lucasbombev/Obsidian/blob/main/BrainUpdater/%F0%9F%93%81%F0%9F%92%BBSoftware/%F0%9F%93%81Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Python/%F0%9F%93%842%20-%20Preparando%20o%20Ambiente.md)</center>

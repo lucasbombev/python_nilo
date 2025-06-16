@@ -7,3 +7,4 @@ Tags: #Python #Lógica #Software
 
 ***
 <h2><a href="https://github.com/lucasbombev/Obsidian"> CLIQUE AQUI PARA VER TODAS AS MINHAS ANOTAÇÕES NO OBSIDIAN</a></h2>
+<h2><a href="/capitulos.md">CLIQUE AQUI PARA IR DIRETO AOS CAPÍTULOS</a></h2>
