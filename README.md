@@ -6,5 +6,10 @@ Tags: #Python #Lógica #Software
 <center><img src= "https://books.google.com.br/books/publisher/content?id=e9fTAwAAQBAJ&hl=pt-BR&pg=PA4&img=1&zoom=3&bul=1&sig=ACfU3U3u7b6t4BLb_mptUUULlM0Ij4g8ow&w=1280" width ="500"></center>
 
 ***
+## 3 - Variáveis e Entrada de Dados
+
+
+
+***
 <h2><a href="https://github.com/lucasbombev/Obsidian"> CLIQUE AQUI PARA VER TODAS AS MINHAS ANOTAÇÕES NO OBSIDIAN</a></h2>
 <h2><a href="/capitulos.md">CLIQUE AQUI PARA IR DIRETO AOS CAPÍTULOS</a></h2>
