@@ -7,8 +7,13 @@ Tags: #Python #Lógica #Software
 
 ***
 ## 3 - Variáveis e Entrada de Dados
-
-
+[Exercício 3.7](/exercicies/exercicio3.7.py)
+[Exercício 3.8](/exercicies/exercicio3.8.py)
+[Exercício 3.9](/exercicies/exercicio3.9.py)
+[Exercício 3.10](/exercicies/exercicio3.10.py)
+[Exercício 3.11](/exercicies/exercicio3.11.py)
+[Exercício 3.12](/exercicies/exercicio3.12.py)
+[Exercício 3.13](/exercicies/exercicio3.13.py)
 
 ***
 <h2><a href="https://github.com/lucasbombev/Obsidian"> CLIQUE AQUI PARA VER TODAS AS MINHAS ANOTAÇÕES NO OBSIDIAN</a></h2>
