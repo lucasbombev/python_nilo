@@ -14,6 +14,8 @@ Tags: #Python #Lógica #Software
 [Exercício 3.11](/exercicies/exercicio3.11.py)
 [Exercício 3.12](/exercicies/exercicio3.12.py)
 [Exercício 3.13](/exercicies/exercicio3.13.py)
+[Exercício 3.14]()
+[Exercício 3.15]()
 
 ***
 <h2><a href="https://github.com/lucasbombev/Obsidian"> CLIQUE AQUI PARA VER TODAS AS MINHAS ANOTAÇÕES NO OBSIDIAN</a></h2>
